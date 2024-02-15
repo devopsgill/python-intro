@@ -1,4 +1,4 @@
-#This turns prompts the user and turns an emoitcon string into an emoji by calling a function
+#This turns prompts the user and turns an emoitcon string into an emoji by calling a function.
 def main():
     text = input("Write Here: ")
     convert(text)
